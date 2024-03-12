@@ -1,6 +1,6 @@
 Create webpage(design.png) in html5, use your best coding skills ( see attached video(assignment.mov) for the output expected )
 
-Use any images or can use below images
+Use any images or can use below images, reuse images to fill the page, page must have alteast 20 images
 
 1. https://acre-image-collections.s3.amazonaws.com/image-6578722caea701702392364_medium.jpg
 2. https://acre-image-collections.s3.amazonaws.com/image-65787222618211702392354_medium.jpg
