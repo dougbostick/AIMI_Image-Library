@@ -3,11 +3,13 @@ Create webpage(design.png) in html5, use your best coding skills ( see attached 
 Use any images or can use below images, reuse images to fill the page, page must have alteast 20 images
 
 1. https://acre-image-collections.s3.amazonaws.com/image-6578722caea701702392364_medium.jpg
-2. https://acre-image-collections.s3.amazonaws.com/image-65787222618211702392354_medium.jpg
-3. https://acre-image-collections.s3.amazonaws.com/image-657872175b22e1702392343_medium.jpg
-4. https://acre-image-collections.s3.amazonaws.com/image-657871ff7d8401702392319_medium.jpg
-5. https://acre-image-collections.s3.amazonaws.com/image-6576286c7c4b61702242412_medium.jpg
-6. https://acre-image-collections.s3.amazonaws.com/image-6578af5f9af671702408031_medium.jpg
+2. https://acre-images.s3.amazonaws.com/image-5ac62b9e561041522936734_medium.jpeg
+3. https://acre-images.s3.amazonaws.com/image-5acac631504581523238449_medium.jpeg
+4. https://acre-image-collections.s3.amazonaws.com/image-65787222618211702392354_medium.jpg
+5. https://acre-image-collections.s3.amazonaws.com/image-657872175b22e1702392343_medium.jpg
+6. https://acre-image-collections.s3.amazonaws.com/image-657871ff7d8401702392319_medium.jpg
+7. https://acre-image-collections.s3.amazonaws.com/image-6576286c7c4b61702242412_medium.jpg
+8. https://acre-image-collections.s3.amazonaws.com/image-6578af5f9af671702408031_medium.jpg
 
 What to use :
 HTML5
