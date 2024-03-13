@@ -13,6 +13,7 @@ Use any images or can use below images (all images must be used) , reuse images 
 9. https://acre-images.s3.amazonaws.com/image-5b01cdf4b2e9a1526844916.jpg
 
 What to use :
+No JS Framework allowed
 HTML5
 SCSS/SASS
 Vanilla Js/ jQuery only
