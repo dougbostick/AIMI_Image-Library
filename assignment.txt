@@ -22,14 +22,14 @@ No external plugins allowed, eg. masonry etc
 Must use grunt to compile js and sass, so the submission must include src and destination with gruntfile and package.json
 
 Output expected -
-Use bootstrap5 html framework to code the webpage
-Image should only load when in viewport
-Webpage must be responsive and must use grid structure
-Use Vanilla Js/jQuery wherever is required, no external plugins allowed.
-Image box must always be square and image should always fill the box
-Image should not lose its aspect ratio
-Those boxes must be checkbox and image should be background image of those checkboxes
-As the default property of checkbox, i should be able to select those image and selection should be highlighted with outline/border, selection part must be done using only css without any js
+1. Use bootstrap5 html framework to code the webpage
+2. Image should only load when in viewport
+3. Webpage must be responsive and must use grid structure
+4. Use Vanilla Js/jQuery wherever is required, no external plugins allowed.
+5. Image box must always be square and image should always fill the box
+6. Image should not lose its aspect ratio
+7. Those boxes must be checkbox and image should be background image of those checkboxes
+9. As the default property of checkbox, i should be able to select those image and selection should be highlighted with outline/border, selection part must be done using only css without any js
 
 Make sure padding between boxes are consistent vertically as well as horizontally.
 Make sure your submission should not include any patchy work
