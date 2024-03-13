@@ -22,7 +22,7 @@ Must use grunt to compile js and sass, so the submission must include src and de
 
 Output expected -
 Use bootstrap5 html framework to code the webpage
-Image should only need when required by viewport
+Image should only load when in viewport
 Webpage must be responsive and must use grid structure
 Use Vanilla Js/jQuery wherever is required, no external plugins allowed.
 Image box must always be square and image should always fill the box
