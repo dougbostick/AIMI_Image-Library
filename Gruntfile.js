@@ -3,6 +3,16 @@ const sass = require('node-sass')
 module.exports = function(grunt) {
 
     grunt.initConfig({
+        connect: {
+            server: {
+              options: {
+                port: 8000,
+                open: true,
+                keepalive: true,
+                base: 'dist'
+              }
+            }
+          },
         concat: {
             js: {
                 src: ['src/js/script.js'],
@@ -26,9 +36,9 @@ module.exports = function(grunt) {
             }
          }
     })
-
+    
     grunt.loadNpmTasks('grunt-contrib-concat');
     grunt.loadNpmTasks('grunt-sass');
-
+    grunt.loadNpmTasks('grunt-contrib-connect');
 };
 
