@@ -1,0 +1,43 @@
+body{
+    height: 100vh;
+    width: 100%;
+    text-align: center;
+    padding: 20px;
+}
+
+#main {
+    background-color: rgb(241, 247, 255);
+}
+
+input[type=checkbox] {
+    display: none;
+}
+
+input[type=checkbox] + label {
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    border: 5px solid white;
+}
+
+input[type=checkbox]:checked + label {
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    border: 5px solid red;
+}
+
+img {
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+}
+
+.container {
+    min-width: 100%;
+    height: 100%;
+        .col{
+            aspect-ratio: 1;
+            padding: 5px;
+        }
+}

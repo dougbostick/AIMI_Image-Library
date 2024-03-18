@@ -1,0 +1,25 @@
+{
+  "name": "image-library",
+  "version": "1.0.0",
+  "description": "Doug Bostick AIMI Submission",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "grunt sass & grunt concat"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.6.1",
+    "grunt-contrib-concat": "^2.1.0",
+    "grunt-contrib-sass": "^2.0.0",
+    "grunt-sass": "^3.1.0",
+    "node-sass": "^9.0.0"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "grunt-contrib-uglify": "^5.2.2",
+    "sass": "^1.72.0"
+  }
+}
