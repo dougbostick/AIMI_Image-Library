@@ -3,6 +3,10 @@
 # Learn more about .gitignore:
 #     https://www.atlassian.com/git/tutorials/saving-changes/gitignore
 
+assignment.mov
+assignment.txt
+design.png
+
 package-lock.json
 # Node artifact files
 node_modules/
